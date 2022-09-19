@@ -38,7 +38,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }
      
 .gs-section-02 h3 { 
-     color: red }
+     color: #91e916 }
 
 .gs-section-01 p {
      font-size: 10px;
