@@ -17,7 +17,7 @@ author: Ieman Mohamed
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "a student who is testing"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
