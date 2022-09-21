@@ -49,24 +49,24 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }
      
 .gs-section-02 h3 { 
-     color: #2F4F4F }
+     color: ##FFF0F5 }
 
 .gs-section-02 p {
-     font-size: 30px;
+     font-size: 20px;
 }     
 
 .gs-section-03 h3 { 
      color: #A9A9A9 }
 
 .gs-section-03 p {
-     font-size: 30px;
+     font-size: 20px;
 }     
      
 .gs-section-04 h3 { 
      color: #DCDCDC }
 
 .gs-section-04 p {
-     font-size: 30px;
+     font-size: 10px;
 }          
 </style>
 
