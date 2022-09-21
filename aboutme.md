@@ -4,7 +4,7 @@ title: About me
 subtitle: Introducing myself
 ---
 
-My name Ieman, and this is me trying to learn something
+My name is Ieman, and this is me trying to learn something
 
 - I study at ASU
 - I'm extremely loyal to my family
