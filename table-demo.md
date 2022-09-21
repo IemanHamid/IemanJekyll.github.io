@@ -1,6 +1,7 @@
 ---
 layout: liquid-table
 title: 'amiright?'
+
 reynolds:
   strengths:
   - good father
