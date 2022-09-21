@@ -15,6 +15,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -22,11 +23,20 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
+</div>
+
+
+<div class="gs-section-04" markdown="1">
+
 ### 4. Congratulations! You have a website!
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
+
+</div>
+
+
 
 <style>
 
@@ -40,10 +50,23 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-02 h3 { 
      color: #91e916 }
 
-.gs-section-01 p {
-     font-size: 10px;
+.gs-section-02 p {
+     font-size: 30px;
 }     
 
+.gs-section-03 h3 { 
+     color: #91e916 }
+
+.gs-section-03 p {
+     font-size: 30px;
+}     
+     
+.gs-section-04 h3 { 
+     color: #91e916 }
+
+.gs-section-04 p {
+     font-size: 30px;
+}          
 </style>
 
 
