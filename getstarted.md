@@ -63,7 +63,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }     
      
 .gs-section-04 h4 { 
-     color: #DCDCDC }
+     color: green }
 
 .gs-section-04 p {
      font-size: 10px;
